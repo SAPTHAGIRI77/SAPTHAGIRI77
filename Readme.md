@@ -1,4 +1,4 @@
-Hi My name is Avindra Gorijala 👋
+Hi My name is Sapthagiri Nalabothula 👋
 =================================================
  
 Software Engineer at [Prospect Infosystem Inc.,](https://prospectinfosystem.com/), Graduated university Student, Curious and eager for knowledge
