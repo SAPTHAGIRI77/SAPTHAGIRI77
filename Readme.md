@@ -7,7 +7,7 @@ Software Engineer at [Prospect Infosystem Inc.,](https://prospectinfosystem.com/
 I pursued my master's from Southeast Missouri State University in the field of Applied Computer Science. At present I'm trying to stay up to date with major technologies relevant to software engineering (mostly backend technologies, Microservices, Cloud Development etc). My current research interests are: Software Design and Architecture, Software Development, Software engineering.
 
 * 🌍  I'm based in St Louis, MO, United States of America
-* ✉️  You can contact me at [gorijalaavindra@@gmail.com](mailto:gorijalaavindra@gmail.com)
+* ✉️  You can contact me at [sapthagirinalabothu@gmail.com](mailto:sapthagirinalabothu@gmail.com)
 * 🚀  I'm currently learning and developing Software Design and Architecture of large scale systems, microservices, distributed systems etc. 
 * 🧠  I'm most familiar with:
     * Programming Languages:
@@ -15,19 +15,14 @@ I pursued my master's from Southeast Missouri State University in the field of A
       * Typescript
       * Javascript
     * Backend Development:
-       * MongoDB
        * SQL
-       * Java (Spring framework)
-       * Docker
+       * Java
     * Frontend Development:
       * React.js
       * Javascript
       * HTML5
       * CSS
       * Bootstrap
-    * Android Development:
-      *  Java
-      *  Android Studio
 * 🤝  I'm open to collaborating on open-source software, enterprise applications, Java libraries, mobile applications, backend services etc
 * ⚡  My Hobbies include writing software, learning new things, playing chess, exploring the mysteries of the universe (physics enthusiast)
 
